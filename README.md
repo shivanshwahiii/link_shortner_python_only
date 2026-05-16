@@ -10,3 +10,6 @@ Implements full **CRUD operations** (Create, Read, Update, Delete) along with pe
 - Delete: Remove short URLs from storage
 - Search stored URLs by keyword
 - Menu-driven CLI interface
+
+##requirements
+flask
